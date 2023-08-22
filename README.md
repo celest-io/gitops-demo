@@ -1,7 +1,7 @@
 # GitOps with FluxCD
 
-[Presentation Slides](assets/GitOps-with-FluxCD.pdf)
-[K8SUG recording](https://youtu.be/Dg-v4hpNQlc)
+- [Presentation Slides](assets/GitOps-with-FluxCD.pdf)
+- [K8SUG recording](https://youtu.be/Dg-v4hpNQlc)
 
 ## Requirements
 
